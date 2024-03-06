@@ -58,5 +58,5 @@ Itu sebabnya saya juga meletakkan `requirements.txt` di folder `dashboard`.
 ## Tentang Saya
 - **Nama**: Teresia Yunita Putriani N
 - **Email**: 6162001042@student.unpar.ac.id
-- **ID Dicoding**: M232D4KX1526
+- **ID Dicoding**: yunita30
 
