@@ -1,7 +1,7 @@
 # Proyek-Analisis-Data-Air-Quality-di-Shunyi 
 
 ## Dashboard
-Network URL: http://192.168.100.9:8501
+Link deploy https://4czrj8mwxgfpogb6wllcar.streamlit.app/
 
 ## Tetang Proyek
 Proyek ini dibuat untuk modul "Belajar Analisis Data dengan Python" dari Dicoding. Saya berfokus pada analisis data perubahan titik embun, kecepatan udara dan hujan di Shunyi. Tujuannya adalah untuk mengungkap dari parameter tersebut.
